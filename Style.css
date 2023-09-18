@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-size: 40px;
+}
+.box-one {
+    background-color: indianred;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 20px;
+    width: 190px;
+    hieght: 190px;
+}
+.box-two {
+    background-color: cornflowerblue;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 70px;
+    height: 25%;
+    width:25%;
+
+}

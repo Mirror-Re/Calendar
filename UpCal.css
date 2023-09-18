@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+table {
+    width: 100%;
+}
+.weekend {
+    background-color: mediumpurple;
+
+}
+.reg {
+    background-color: indianred;
+}
+.FP {
+    background-color: mistyrose;
+}
+.Piano {
+    background-color: lightslategray;
+}
+td,th{
+    border: 2px solid black;
+    width: 14.27%;
+}
+th {
+    padding: 8px 0;
+    font-size: 24px;
+    background-color: cornflowerblue;
+}
+td {
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 50px;
+}
